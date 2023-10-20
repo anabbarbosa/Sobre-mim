@@ -1,0 +1,49 @@
+.me {
+  background: rgb(187, 163, 255);
+  background: linear-gradient(
+    180deg,
+    rgba(187, 163, 255, 1) 0%,
+    rgba(217, 188, 255, 0.8547794117647058) 75%,
+    rgba(255, 255, 255, 0) 100%
+  );
+}
+.hi {
+  color: black !important;
+}
+div.aboutme.col-lg-8 {
+  display: block;
+  text-align: center !important;
+}
+
+.card {
+  border: 0px !important;
+}
+.contact {
+  text-align: center !important;
+  font-size: large;
+}
+
+.col-6.contact.mb-4.mt-4.p-4 {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.footer {
+  background: rgb(187, 163, 255);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(217, 188, 255, 0.8547794117647058) 50%,
+    rgba(187, 163, 255, 1) 100%
+  );
+  justify-content: flex-end;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.link:hover {
+  color: white;
+}
